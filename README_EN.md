@@ -1,6 +1,6 @@
 # USER GUIDE
 
-[中文](README.md)|English
+[中文](README.md) | English
 
 ------
 
@@ -59,11 +59,11 @@ dependencies{
 
 Open Terminal.
 
-In windows , input **gradle -q hello **, then run
+In windows , input **gradle -q hello**, then run
 
 In mac, input **./gradle -q hello** , then run
 
- **-q **represent quite，remove som other unnecessary info.
+ **-q**represent quite，remove som other unnecessary info.
 
 Then you can find the info in your command line
 
@@ -75,7 +75,7 @@ __Note : This method requires you to configure the gradle environment variable, 
 
 like below：
 
-![步骤1](E:/Project/MavenTest/image/image_1.png)
+![步骤1](https://github.com/baolw/MavenTest/blob/master/image/image_1.png)
 
 Find __Gradle__ in Android Studio，Find the module you test in the last few steps (I used the app module above).
 
@@ -85,7 +85,7 @@ Then double click to run
 
 Then find like below：
 
-![步骤2](E:/Project/MavenTest/image/image_2.png)
+![步骤2](https://github.com/baolw/MavenTest/blob/master/image/image_2.png)
 
 Find **Gradle Console** in Android Studio.
 
