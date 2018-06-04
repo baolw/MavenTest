@@ -1,4 +1,6 @@
-# 使用方法#
+# 使用方法
+
+
 
 中文|[English](README_EN.md)
 
@@ -6,7 +8,7 @@
 
 
 
-###添加依赖###
+###添加依赖 ###
 
 在根project下的 **build.gradle** 中添加如下依赖，repositories里需要添加上jcenter()。
 
