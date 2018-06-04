@@ -37,7 +37,7 @@ apply plugin: 'com.baoleiwei.levi'
 
 ### 增加测试闭包
 
-在需要使用到的module下的 **build.gradle **中添加**greeting**闭包，例如app模块下：
+在需要使用到的module下的 **build.gradle** 中添加 **greeting** 闭包，例如app模块下：
 
 ```
 greeting{
